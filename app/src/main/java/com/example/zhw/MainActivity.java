@@ -12,7 +12,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.example.zhw.ServicePack.MyServer;
+import com.example.zhw.Services.MyServer;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private Button btn_login;
